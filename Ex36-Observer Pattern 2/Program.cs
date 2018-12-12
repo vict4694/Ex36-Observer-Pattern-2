@@ -10,7 +10,7 @@ namespace Ex36_Observer_Pattern_2
     {
         static void Main(string[] args)
         {
-
+            // xd
         }
     }
 }
